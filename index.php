@@ -59,8 +59,11 @@
 <p>
 
 
-<th>Edition</th>
+<th>Update</th>
 <p>
+
+  <th>Delete</th>
+  <p>
 
 </thead>
 <p>
